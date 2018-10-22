@@ -1,6 +1,6 @@
 <h1>NBA-freethrowdata<h1>
-<h4>Extracting data from [nba-free-throws.csv](https://www.kaggle.com/sebastianmantey/nba-free-throws) <br>
-and [nba-players-stats.csv](https://www.kaggle.com/drgilermo/nba-players-stats) to 
+<h4>Extracting data from [Nba-free-throws.csv](https://www.kaggle.com/sebastianmantey/nba-free-throws) <br>
+and [Nba-players-stats.csv](https://www.kaggle.com/drgilermo/nba-players-stats) to 
 look at some interesting freethrow-related stats.</h4>
 
 <br><h5>/data_cleanup/:
