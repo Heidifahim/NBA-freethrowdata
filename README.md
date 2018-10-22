@@ -3,7 +3,7 @@
 and https://www.kaggle.com/drgilermo/nba-players-stats to 
 look at some interesting freethrow-related stats.</h4>
 
-<br><h5>1) /data_cleanup/:</h5>
+<br><h5>1) **/data_cleanup/:**
 * contains all the csvs and the different versions I created/worked with
 * nba_datastaging.py 
   * contains all the code to clean up and merge both csvs into a final csv ready to load into a database
